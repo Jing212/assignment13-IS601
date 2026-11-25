@@ -104,9 +104,18 @@ docker-compose.yml
 
 Add screenshots to a `docs/` folder and link them here:
 
+### GitHub Actions
 - GitHub Actions successful run
-- Playwright tests passing
-- Login and registration pages
+![GitHub Actions success](docs/github-actions.png)
+### Playwright E2E tests
+![Playwright tests passing](docs/playwright-tests.png)
+
+### Registration page
+![Register page](docs/register-page.png)
+
+### Login page
+![Login page](docs/login-page.png)
+![Dashboard with token](docs/dashboard-token.png)
 
 ## Reflection
 
